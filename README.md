@@ -4,10 +4,14 @@ Air Draw is a Python-based hand-tracking drawing application that allows you to 
 
 ## Features
 
-- Right hand → index finger up: draw
-- Left hand → clears the canvas
-- Smooth, non-cursive friendly drawing
-- Separate canvas window
-- Works in real-time with your webcam
+- - Hand tracking with MediaPipe
+- Drawing canvas
+- MNIST digit recognition
+
+## Run
+.venv\Scripts\activate
+pip install -r requirements.txt
+python air_mnist.py
+
 
 
