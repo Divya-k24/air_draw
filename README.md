@@ -4,7 +4,7 @@ Air Draw is a Python-based hand-tracking drawing application that allows you to 
 
 ## Features
 
-- - Hand tracking with MediaPipe
+- Hand tracking with MediaPipe
 - Drawing canvas
 - MNIST digit recognition
 
